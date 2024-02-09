@@ -2,6 +2,14 @@ This is assignment 4.
 Umaima gandi ha.
 Assignment 4
 Mai bhi gandi hu......
+<<<<<<< HEAD
 Shifa gandi ha.
 
 
+=======
+Conflicct a araha ha
+Shifa gandi ha.
+
+
+Conflict aa raha ha
+>>>>>>> three-way-merge
